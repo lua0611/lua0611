@@ -1,16 +1,16 @@
-### Hi there 👋
+### seja benvindo ao meu perfil 💖
 
-<!--
-**lua0611/lua0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É LUANA LOPES 
 
-Here are some ideas to get you started:
+- ETSTOU ESTUDANDO NA [ALURA](https://WWW.ALURA.COM.BR)
+- ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIPT
+- UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇAO E COMPARTILHAMENTO DOS MEU PROJETOS DESENVOLVIDOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## VOCÊ entra em contato comigo📫
+
+  luana.lopes.miranda07@gmail.com
+
+  @luana_miranda2007
+
+
+![](https://media.tenor.com/Rv3x7_Mlj1kAAAAi/stich-beso.gif)
